@@ -1,0 +1,5 @@
+{
+  "name": "Minimalist Infinite Tic-Tac-Toe",
+  "description": "A minimalist, text-free Infinite Tic-Tac-Toe. Choose your turn, play against a strong CPU, and focus solely on the board.",
+  "requestFramePermissions": []
+}
