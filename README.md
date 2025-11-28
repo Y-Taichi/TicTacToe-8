@@ -1,7 +1,3 @@
-# Run and deploy your AI Studio app
-
-Codeing by The-Pen & Gemini
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
@@ -12,3 +8,5 @@ Codeing by The-Pen & Gemini
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+   Codeing by The-Pen & Gemini
